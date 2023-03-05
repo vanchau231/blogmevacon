@@ -1,0 +1,5 @@
+{
+  "source": "/:slug",
+  "destination": "https://blogmevaconblogmevacon.com/graphql/:slug",
+  "statusCode": 301
+}
